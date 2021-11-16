@@ -1,6 +1,5 @@
 List of fruits to buy:
 
-Apples
 Oranges
 Bananas
 Cherries
@@ -8,3 +7,4 @@ Pineapples
 Grapes
 Berries
 Dates
+Sugarcane
